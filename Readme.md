@@ -9,11 +9,11 @@ This project is a **Photogallery** built with Laravel 5 framework. The app allow
 1.0.0
 
 ## Live Demo
- [MileTracker](http://jyotsnasingh.com/projects/JavaScript/MileTracker-MobileApp/)
+ [Laravel PhotoGallery](http://jyotsnasingh.com/projects/Laravel/PhotoGallery/)
 
 
 ## Vendors
-Laravel - [http://jquery.com](http://jquery.com) 
+Laravel - [https://laravel.com/](https://laravel.com/) 
 
 
 ## License
