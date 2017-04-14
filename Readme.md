@@ -11,6 +11,18 @@ This project is a **Photogallery** built with Laravel 5 framework. The app allow
 ## Live Demo
  [Laravel PhotoGallery](http://jyotsnasingh.com/projects/Laravel/PhotoGallery/)
 
+## Usage
+
+**Home Page** | **All Galleries**
+--- | ---
+Home Page of PhotoGallery | View All Galleries
+![alt text](https://github.com/Jyotsna-Singh/Laravel-PhotoGallery/blob/master/public/img/home.PNG "Home")  | ![alt text](https://github.com/Jyotsna-Singh/Laravel-PhotoGallery/blob/master/public/img/view-gallery.PNG "All Galleries")
+
+**View Photos** | **Create Gallery**
+--- | --- 
+View Photos in Gallery | Create Gallery and upload photos  
+![alt text](https://github.com/Jyotsna-Singh/Laravel-PhotoGallery/blob/master/public/img/view-photo.PNG "View Photos")  | ![alt text](https://github.com/Jyotsna-Singh/Laravel-PhotoGallery/blob/master/public/img/create-gallery.PNG "Create Gallery") 
+
 
 ## Vendors
 Laravel - [https://laravel.com/](https://laravel.com/) 
