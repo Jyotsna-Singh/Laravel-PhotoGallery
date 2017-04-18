@@ -8,20 +8,30 @@ This project is a **Photogallery** built with Laravel 5 framework. The app allow
 ## Version
 1.0.0
 
-## Live Demo
- [Laravel PhotoGallery](http://jyotsnasingh.com/projects/Laravel/PhotoGallery/)
+## Live Demo - Laravel PhotoGallery
+ [![alt tag](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/red-button.PNG)](http://jyotsnasingh.com/projects/Laravel/PhotoGallery/)
 
 ## Usage
 
-**Home Page** | **All Galleries**
---- | ---
-Home Page of PhotoGallery | View All Galleries
-![alt text](https://github.com/Jyotsna-Singh/Laravel-PhotoGallery/blob/master/public/img/home.PNG "Home")  | ![alt text](https://github.com/Jyotsna-Singh/Laravel-PhotoGallery/blob/master/public/img/view-gallery.PNG "All Galleries")
-
-**View Photos** | **Create Gallery**
---- | --- 
-View Photos in Gallery | Create Gallery and upload photos  
-![alt text](https://github.com/Jyotsna-Singh/Laravel-PhotoGallery/blob/master/public/img/view-photo.PNG "View Photos")  | ![alt text](https://github.com/Jyotsna-Singh/Laravel-PhotoGallery/blob/master/public/img/create-gallery.PNG "Create Gallery") 
+**Home Page** | 
+--- |
+Home Page of PhotoGallery | 
+ ![alt text](https://github.com/Jyotsna-Singh/Laravel-PhotoGallery/blob/master/public/img/home.PNG "Home")   |
+ 
+ **All Galleries** | 
+--- |
+View All Galleries |
+ ![alt text](https://github.com/Jyotsna-Singh/Laravel-PhotoGallery/blob/master/public/img/view-gallery.PNG "All Galleries")   |
+ 
+ **View Photos** | 
+--- |
+View Photos in Gallery |
+ ![alt text](https://github.com/Jyotsna-Singh/Laravel-PhotoGallery/blob/master/public/img/view-photo.PNG "View Photos")   |
+ 
+ **Create Gallery** | 
+--- |
+Create Gallery and upload photos |
+ ![alt text](https://github.com/Jyotsna-Singh/Laravel-PhotoGallery/blob/master/public/img/create-gallery.PNG "Create Gallery"   |
 
 
 ## Vendors
