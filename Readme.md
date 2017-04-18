@@ -16,7 +16,7 @@ This project is a **Photogallery** built with Laravel 5 framework. The app allow
 **Home Page** | 
 --- |
 Home Page of PhotoGallery | 
- ![alt text](https://github.com/Jyotsna-Singh/Laravel-PhotoGallery/blob/master/public/img/home.PNG "Home")   |
+ ![alt text](https://github.com/Jyotsna-Singh/Laravel-PhotoGallery/blob/master/public/img/home2.PNG "Home")   |
  
  **All Galleries** | 
 --- |
