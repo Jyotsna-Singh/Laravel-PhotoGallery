@@ -31,7 +31,7 @@ View Photos in Gallery |
  **Create Gallery** | 
 --- |
 Create Gallery and upload photos |
- ![alt text](https://github.com/Jyotsna-Singh/Laravel-PhotoGallery/blob/master/public/img/create-gallery.PNG "Create Gallery"   |
+ ![alt text](https://github.com/Jyotsna-Singh/Laravel-PhotoGallery/blob/master/public/img/create-gallery.PNG "Create Gallery")   |
 
 
 ## Vendors
